@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/prueba-card-react/static/css/main.82af38af.css",
+    "main.js": "/prueba-card-react/static/js/main.5a4eb57e.js",
+    "static/media/flores.jpg": "/prueba-card-react/static/media/flores.0c853ee11a751058f7cf.jpg",
+    "index.html": "/prueba-card-react/index.html",
+    "main.82af38af.css.map": "/prueba-card-react/static/css/main.82af38af.css.map",
+    "main.5a4eb57e.js.map": "/prueba-card-react/static/js/main.5a4eb57e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82af38af.css",
+    "static/js/main.5a4eb57e.js"
+  ]
+}
